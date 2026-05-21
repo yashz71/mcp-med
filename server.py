@@ -26,9 +26,7 @@ def ask_patient():
         "Are you currently taking any medications?"
     ]
 
-    return {
-        "questions": questions
-    }
+    return  questions
 
 
 # -----------------------------
